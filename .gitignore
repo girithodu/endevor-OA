@@ -181,3 +181,21 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+
+# Frontend
+node_modules/
+dist/
+.env
+
+# Backend
+__pycache__/
+venv/
+.env
+uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
