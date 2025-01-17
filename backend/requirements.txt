@@ -33,6 +33,7 @@ pydantic-settings==2.1.0
 pydantic_core==2.27.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
+python-multipart==0.0.20
 pytz==2024.2
 realtime==2.1.0
 six==1.17.0
