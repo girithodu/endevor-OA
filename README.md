@@ -1,4 +1,4 @@
-# endevor-OA
+# endeavor-OA
 
 A web application with a React frontend and FastAPI backend.
 
